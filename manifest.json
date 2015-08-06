@@ -1,23 +1,17 @@
 {
   "manifest_version": 2,
-
   "name": "Flatiron Antisocial",
   "description": "Learn.co Quiet Mode",
   "version": "1.0",
 
   "browser_action": {
+    "default_icon": "fis-logo.png"
   },
   
-  "permissions": [
-    "activeTab",
-    "https://ajax.googleapis.com/"
-  ],
-
   "content_scripts": [
     {
       "matches": ["https://learn.co/*"],
-      "css": ["fias.css"],
-      "run_at": "document_end"
+      "css": ["fias.css"]
     }
   ]
 }
