@@ -1,7 +1,7 @@
 # Flatiron Antisocial
 
 ## About
-Fias is a Chrome Extension to remove all of the social elements of Learn.co. Learn.co(quiet mode). Shhhh.
+Fias is a Chrome Extension to remove all of the social elements of Learn.co. Learn.co(quiet mode). Shhhh. To read more about this project, [check out my blog post](http://joshuabamboo.github.io/blog/2015/09/06/were-programmers-dammit/).
 
 ## Issues
 Feel free to submit issues and enhancement requests.
